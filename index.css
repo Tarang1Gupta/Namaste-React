@@ -1,0 +1,10 @@
+#heading{
+    color: red;
+}
+#root2{
+    color: rgb(147, 240, 119);
+    font-weight: bold;
+    text-decoration: dashed;
+    background-color: brown;
+    font-size: 20px;
+}
